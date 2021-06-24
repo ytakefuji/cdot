@@ -38,6 +38,11 @@ $ wc test.csv
 $ wc train.csv 
     1094     1095 29262592 train.csv
 
+</pre>
+
+# how to run cdot_ext.py and cdot_rf.py
+
+<pre>
 $ python cdot_ext.py 
 p= 8747 accuracy= 0.7118753691194872
 $ python cdot_rf.py 

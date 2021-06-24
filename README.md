@@ -15,6 +15,17 @@ parameters:8751
 extratrees:features and splits are randomly selected.
 randomforest:wisdom of the crowd
 
+</pre>
+
+# how to download train.csv, test.csv and cdot_data.csv
+
+https://github.com/schustda/CDOT-Project-Estimator/raw/master/data/model/train.csv
+
+https://github.com/schustda/CDOT-Project-Estimator/raw/master/data/model/test.csv
+
+https://github.com/schustda/CDOT-Project-Estimator/raw/master/data/data/cdot_data.csv
+
+<pre>
 
 $ head -1 train.csv|grep -o 'bid[^*,]*'
 bid_total

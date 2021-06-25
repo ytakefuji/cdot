@@ -1,10 +1,10 @@
 # cdot
 
-result by extratrees
+result by extratrees (cdot_ext.py)
 
 <img src='accuracy_ext.png' height=400 width=600>
 
-result by randomforest
+result by randomforest (cdot_rf.py)
 
 <img src='accuracy_rf.png' height=400 width=600>
 

@@ -1,5 +1,12 @@
 # cdot
 
+The paper entitle "Converting detailed estimates to primary estimates with data augmentation" 
+
+was published on July 10 2021 at Advanced Engineering Informatics:
+
+https://doi.org/10.1016/j.aei.2021.101354
+
+
 result by extratrees (cdot_ext.py)
 
 <img src='accuracy_ext.png' height=400 width=600>
